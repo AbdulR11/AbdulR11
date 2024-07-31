@@ -41,12 +41,3 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-![snake gif](https://github.com/AbdulR11/AbdulR11/blob/output/github-contribution-grid-snake.gif)
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
