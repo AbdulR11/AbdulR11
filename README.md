@@ -50,3 +50,7 @@
   <br/><br/><br/>
 </div>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulR11)](https://git.io/streak-stats)
+<img align="right" height=190px src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdulR11&show_icons=true&locale=en&layout=compact"  />
+
