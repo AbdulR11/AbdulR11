@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🎓 Currently a 2nd year College student studying at Trinity College Dublin**a marketplace**
+ 🎓 Currently a 3rd year College student studying at Trinity College Dublin**a marketplace**
  
  💻 I love to learn new technologies and frameworks.
 
